@@ -1,0 +1,14 @@
+CREATE TABLE [dbo].[TableDep] (
+    [Id]  INT           NOT NULL,
+    [Dep] NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+CREATE TABLE [dbo].[TableEmp] (
+    [Id]  INT           NOT NULL,
+    [EmpDep] NVARCHAR (50) NULL,
+    [Age] NCHAR(10) NOT NULL, 
+    [NameEmp] NCHAR(10) NOT NULL, 
+    [Salary] NCHAR(10) NULL, 
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);

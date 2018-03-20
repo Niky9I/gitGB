@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище DB_EmpDepModelContainer" CdmEntityContainer="DB_EmpDepEntities">
+    <EntitySetMapping Name="TableDep">
+      <EntityTypeMapping TypeName="DB_EmpDepModel.TableDep">
+        <MappingFragment StoreEntitySet="TableDep">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Dep" ColumnName="Dep" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TableEmp">
+      <EntityTypeMapping TypeName="DB_EmpDepModel.TableEmp">
+        <MappingFragment StoreEntitySet="TableEmp">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NameEmp" ColumnName="NameEmp" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="EmpDep" ColumnName="EmpDep" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

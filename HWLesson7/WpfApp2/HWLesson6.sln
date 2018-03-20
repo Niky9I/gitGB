@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWLesson6", "HWLesson6.csproj", "{5D06EC1E-9EC4-4736-AA6A-EBCDB949CA14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7", "..\Lesson7\Lesson7.csproj", "{CF28F6E8-A59A-4E20-A40D-4F458C888F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{A8CB27CC-07EE-45B3-A8DD-A69DEF763C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D06EC1E-9EC4-4736-AA6A-EBCDB949CA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D06EC1E-9EC4-4736-AA6A-EBCDB949CA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D06EC1E-9EC4-4736-AA6A-EBCDB949CA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D06EC1E-9EC4-4736-AA6A-EBCDB949CA14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF28F6E8-A59A-4E20-A40D-4F458C888F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF28F6E8-A59A-4E20-A40D-4F458C888F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF28F6E8-A59A-4E20-A40D-4F458C888F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF28F6E8-A59A-4E20-A40D-4F458C888F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8CB27CC-07EE-45B3-A8DD-A69DEF763C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8CB27CC-07EE-45B3-A8DD-A69DEF763C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8CB27CC-07EE-45B3-A8DD-A69DEF763C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8CB27CC-07EE-45B3-A8DD-A69DEF763C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3D37849-223E-4013-A16D-01D4A7411782}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Niky9I\source\repos\WpfApp1\HWLesson7\Lesson7\obj\Debug\Lesson7.csprojResolveAssemblyReference.cache
+C:\Users\Niky9I\source\repos\WpfApp1\HWLesson7\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\Niky9I\source\repos\WpfApp1\HWLesson7\Lesson7\bin\Debug\Lesson7.exe.config
+C:\Users\Niky9I\source\repos\WpfApp1\HWLesson7\Lesson7\bin\Debug\Lesson7.exe
+C:\Users\Niky9I\source\repos\WpfApp1\HWLesson7\Lesson7\bin\Debug\Lesson7.pdb
+C:\Users\Niky9I\source\repos\WpfApp1\HWLesson7\Lesson7\obj\Debug\Lesson7.exe
+C:\Users\Niky9I\source\repos\WpfApp1\HWLesson7\Lesson7\obj\Debug\Lesson7.pdb
